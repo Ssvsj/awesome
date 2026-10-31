@@ -1,0 +1,6 @@
+{
+  "name": "SPICE DROP NYC - Indo-Thai Late Night Street Eats",
+  "description": "Lower East Side Indo-Thai collision street food experience featuring weekly secret drops, custom wok bowls, night market grails, and live squad reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
